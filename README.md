@@ -1,1 +1,1 @@
-# streaming-platform-analysis
+# Streaming Platform Analysis
