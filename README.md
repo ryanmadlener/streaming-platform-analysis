@@ -13,6 +13,7 @@
 - Which streaming platform has the most TV shows?
 - Which streaming platform has the most child friendly content?
 - Which streaming platform has the highest rated content?
- 
 
-
+## *Insights*
+- A critical part of analyzing any data is answering the question...
+> How does knowing this information benefit my organization?
